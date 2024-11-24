@@ -1,0 +1,140 @@
+body {
+  padding: 58px 144px;
+  font-family: ROBOTO;
+}
+
+.header {
+  font-size: 16px;
+  font-weight: 700;
+  color: #5863e3;
+  margin-bottom: 7px;
+}
+
+.slogani {
+  color: black;
+  font-size: 48px;
+  font-weight: 400;
+  margin-bottom: 56px;
+}
+.textareadiv {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 52px;
+}
+
+.diditextarea {
+  display: flex;
+  width: 900px;
+  height: 298px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  color: #99999a;
+  font-weight: 700;
+  padding: 24px 32px;
+  border: none;
+  border-color: #d4d3d33e;
+  border: 2px;
+  box-sizing: border-box;
+}
+
+.minitextarea1 {
+  display: flex;
+  background-color: #f8f8f8;
+  width: 370px;
+  height: 59px;
+  flex-direction: column;
+  border: none;
+  font-size: 16px;
+  color: #99999a;
+  font-weight: 700;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.divmini {
+  display: flex;
+  width: 370px;
+}
+
+.buttonsubmit {
+  color: white;
+  background-color: #5968f4;
+  height: 59px;
+  width: 370px;
+  display: flex;
+  border: none;
+}
+
+.dididivi {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 74px;
+}
+.divv {
+  display: flex;
+  flex-direction: column;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50% -50%);
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  border-radius: 50%;
+  background-color: #5968f4;
+  display: flex;
+  width: 68px;
+  height: 68px;
+  color: darkblue;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50% -50%);
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+}
+i {
+  font-size: 36px;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50% -50%);
+}
+
+.icontext {
+  display: flex;
+  text-align: center;
+  width: 226px;
+  flex-direction: column;
+}
+
+.email {
+  color: #4e4d54;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.email1 {
+  color: #99999a;
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.content {
+  font-size: 16px;
+  font-weight: 700;
+  color: #5863e3;
+  margin-bottom: 8px;
+}
+
+.poto3 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.footer {
+  background-color: #000000;
+  width: 100%;
+  height: 372px;
+}
