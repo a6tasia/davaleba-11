@@ -1,4 +1,4 @@
-body {
+.padding {
   padding: 58px 144px;
   font-family: ROBOTO;
 }
@@ -132,6 +132,9 @@ i {
   justify-content: space-between;
   margin-bottom: 40px;
 }
+.potosection {
+  padding: 0px 60px;
+}
 
 .footer {
   background-color: #000000;
@@ -139,11 +142,59 @@ i {
   height: 372px;
   padding: 63px 144px;
   box-sizing: border-box;
+  font-family: roboto;
+}
+.footerdivv {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
 }
 .hotels {
   color: white;
+  margin-bottom: 24px;
+}
+
+.footertext {
+  color: #99999a;
+  font-size: 16px;
+  font-weight: 700;
+  display: flex;
+  width: 295px;
+  margin-bottom: 24px;
 }
 
 textarea {
   resize: none;
+}
+.footerdiv {
+  color: #5863e3;
+  font-size: 16px;
+  align-content: flex-start;
+}
+/* .footericon {
+  font-size: 20px;
+  color: #5863e3;
+  margin-right: 4px;
+}
+.divtexticon {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+} */
+.contactsdiv {
+  display: flex;
+  flex-direction: row;
+}
+.footericons {
+  font-size: 20px;
+  color: #5863e3;
+  display: flex;
+  flex-direction: column;
+  margin-right: 4px;
+}
+.contacts {
+  color: #ffffff;
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
 }
